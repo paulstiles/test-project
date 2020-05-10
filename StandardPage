@@ -1,0 +1,7 @@
+<apex:page>
+
+    <apex:canvasApp developerName="Test_Standard_Visualforce" 
+        namespacePrefix="testorg" height="1000px" width="800px" 
+        parameters="{p1:'value1',p2:'value2',p3:'value3'}"/>
+
+</apex:page>
